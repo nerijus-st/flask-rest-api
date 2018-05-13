@@ -1,0 +1,4 @@
+rest-api-course/
+__pycache__/
+venv/
+*.pyc
